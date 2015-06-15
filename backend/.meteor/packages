@@ -11,3 +11,6 @@ meteor-platform
 twbs:bootstrap
 jquery
 fortawesome:fontawesome
+accounts-ui
+accounts-password
+iron:router
